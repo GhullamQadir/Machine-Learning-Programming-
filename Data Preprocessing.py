@@ -53,3 +53,5 @@ X_test_scaled = scaler.transform(X_test_ohe)
 
 print("Train shape:", X_train_scaled.shape)
 print("Test shape:", X_test_scaled.shape)
+
+
